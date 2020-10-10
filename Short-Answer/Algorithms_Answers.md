@@ -34,8 +34,8 @@ Test to see if an egg gets broken when thrown from the n//2 story.
         test again from the (n//2)//2 story.
 
     otherwise
-    
-        test again from the (n/2) + (n//2)//2 story.
+
+        test again from the (n//2) + (n//2)//2 story.
 
 Use recursion and keep track of f.
 
